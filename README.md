@@ -1,6 +1,6 @@
 # piano.js
-Piano Web App with React Hooks + Starter Kit
-jacksonmccluskey.github.io/piano.js
+Piano Web App with React Hooks + Starter Kit <br/>
+[View React App Here](https://jacksonmccluskey.github.io/piano.js)
 
 # Getting Started
 
