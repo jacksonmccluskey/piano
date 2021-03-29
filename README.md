@@ -1,4 +1,7 @@
 # piano.js
 Piano Web App with React Hooks + Starter Kit
 
-https://dev.to/ganeshmani/building-a-piano-with-react-hooks-3mih
+# Getting Started
+
+npx create-react-app piano-hooks
+npm i soundfont-player
