@@ -1,6 +1,8 @@
 # piano.js
 Piano Web App with React Hooks + Starter Kit <br/>
 
+![](Piano.jpg)
+
 # Getting Started
 
 **$ npx create-react-app piano-hooks** <br/>
