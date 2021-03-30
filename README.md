@@ -1,7 +1,7 @@
 # piano.js
 Piano Web App with React Hooks + Starter Kit <br/>
 
-![](Piano.jpg)
+![](Piano.png)
 
 # Getting Started
 
