@@ -1,11 +1,19 @@
 # piano.js
 Piano Web App with React Hooks + Starter Kit <br/>
-[View React App Here](https://jacksonmccluskey.github.io/piano.js)
 
 # Getting Started
 
 **$ npx create-react-app piano-hooks** <br/>
 **$ npm i soundfont-player** <br/>
+To build yourself <br/><br/>
+OR
+
+**$ git clone https://github.com/jacksonmccluskey/piano.js.git**<br/>
+**$ cd piano-hooks**<br/>
+**$ npm install**<br/>
+**$ npm start**<br/>
+To see mine <br/><br/>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
