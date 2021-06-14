@@ -1,5 +1,5 @@
 # piano
-Piano Web App with React Hooks + Starter Kit <br/>
+Piano Keyboard <br/>
 
 ![](Piano.png)
 
