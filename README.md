@@ -1,4 +1,4 @@
-# piano.js
+# piano
 Piano Web App with React Hooks + Starter Kit <br/>
 
 ![](Piano.png)
